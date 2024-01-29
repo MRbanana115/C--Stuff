@@ -1,0 +1,10 @@
+C:\Users\justw\Documents\GitHub\C--Stuff\txt to List\txt to List\bin\Debug\txt to List.exe.config
+C:\Users\justw\Documents\GitHub\C--Stuff\txt to List\txt to List\bin\Debug\txt to List.exe
+C:\Users\justw\Documents\GitHub\C--Stuff\txt to List\txt to List\bin\Debug\txt to List.pdb
+C:\Users\justw\Documents\GitHub\C--Stuff\txt to List\txt to List\obj\Debug\txt to List.csproj.AssemblyReference.cache
+C:\Users\justw\Documents\GitHub\C--Stuff\txt to List\txt to List\obj\Debug\txt_to_List.Form1.resources
+C:\Users\justw\Documents\GitHub\C--Stuff\txt to List\txt to List\obj\Debug\txt_to_List.Properties.Resources.resources
+C:\Users\justw\Documents\GitHub\C--Stuff\txt to List\txt to List\obj\Debug\txt to List.csproj.GenerateResource.cache
+C:\Users\justw\Documents\GitHub\C--Stuff\txt to List\txt to List\obj\Debug\txt to List.csproj.CoreCompileInputs.cache
+C:\Users\justw\Documents\GitHub\C--Stuff\txt to List\txt to List\obj\Debug\txt to List.exe
+C:\Users\justw\Documents\GitHub\C--Stuff\txt to List\txt to List\obj\Debug\txt to List.pdb
